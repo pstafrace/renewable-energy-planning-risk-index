@@ -1,0 +1,15 @@
+{
+    "baseline_metadata": {
+        "cases_parsed": 79,
+        "intercept_bias": -0.02561946499105503
+    },
+    "nlp_friction_coefficients": {
+        "visual_amenity": 0.34701929021676137,
+        "noise_impact": 0.0,
+        "flora_fauna": 0.07427312946103201,
+        "heritage": 0.9,
+        "traffic": 0.0,
+        "fire_risk": 0.0,
+        "agriculture": 0.0
+    }
+}

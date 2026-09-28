@@ -1,0 +1,36 @@
+{
+    "baseline": {
+        "total_cases": 141,
+        "refusal_rate": 0.3049645390070922,
+        "avg_delay_days": 580.072463768116
+    },
+    "overlays": {
+        "HO": {
+            "count": 7,
+            "refusal_rate": 0.5714285714285714,
+            "avg_delay_days": 988.8
+        },
+        "ESO": {
+            "count": 2,
+            "refusal_rate": 0.0,
+            "avg_delay_days": 81.0
+        },
+        "BMO": {
+            "count": 1,
+            "refusal_rate": 0.0,
+            "avg_delay_days": null
+        }
+    },
+    "clauses": {
+        "13.10": {
+            "count": 3,
+            "refusal_rate": 0.3333333333333333,
+            "avg_delay_days": 115.5
+        },
+        "52.32": {
+            "count": 7,
+            "refusal_rate": 0.2857142857142857,
+            "avg_delay_days": 543.8
+        }
+    }
+}
